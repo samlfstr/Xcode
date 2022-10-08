@@ -94,21 +94,11 @@
                                     <segue destination="oCi-hK-r7g" kind="presentation" modalPresentationStyle="automatic" modalTransitionStyle="coverVertical" id="lGj-lR-Tez"/>
                                 </connections>
                             </button>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="DiceSix" translatesAutoresizingMaskIntoConstraints="NO" id="bFt-hg-gUm">
-                                <rect key="frame" x="215" y="484" width="120" height="120"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                            </imageView>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="DiceOne" translatesAutoresizingMaskIntoConstraints="NO" id="HuN-yg-MIa">
-                                <rect key="frame" x="78" y="487" width="120" height="120"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                            </imageView>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                     </view>
                     <connections>
-                        <outlet property="DiceSix" destination="HuN-yg-MIa" id="Eif-nL-jBO"/>
-                        <outlet property="DiceSix2" destination="bFt-hg-gUm" id="FMI-Ko-sLE"/>
                         <outlet property="diceOneText" destination="eZh-t1-vW0" id="ASd-J8-tDa"/>
                         <outlet property="diceTwoText" destination="kbN-fv-Uuw" id="xBC-9d-47R"/>
                         <outlet property="imgViewDiceOne" destination="txG-on-dg9" id="roc-xt-cxe"/>
@@ -156,7 +146,6 @@ consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labor
     </scenes>
     <resources>
         <image name="DiceOne" width="100" height="100"/>
-        <image name="DiceSix" width="100" height="100"/>
         <image name="DiceeLogo" width="196" height="128"/>
         <image name="GreenBackground" width="444.5" height="414"/>
         <image name="info.circle.fill" catalog="system" width="128" height="121"/>

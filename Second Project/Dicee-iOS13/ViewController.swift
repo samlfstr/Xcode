@@ -31,8 +31,6 @@ class ViewController: UIViewController {
     @IBOutlet weak var diceTwoText: UITextField!
     @IBOutlet weak var rollButton: UIButton!
     @IBOutlet weak var infoTextField: UITextView!
-    @IBOutlet weak var DiceSix: UIImageView!
-    @IBOutlet weak var DiceSix2: UIImageView!
     
     let diceNumbers : KeyValuePairs = [
         0 : UIImage(named: "DiceOne"),
@@ -59,10 +57,6 @@ class ViewController: UIViewController {
         
         imgViewDiceOne.image = diceNumbers[randomDiceNumberOne].value;
         imgViewDiceTwo.image = diceNumbers[randomDiceNumberTwo].value;
-        
-        DiceSix.image = [#imageLiteral(resourceName: "DiceOne"),#imageLiteral(resourceName: "DiceTwo"),#imageLiteral(resourceName: "DiceThree"),#imageLiteral(resourceName: "DiceFour"),#imageLiteral(resourceName: "DiceFive"),#imageLiteral(resourceName: "DiceSix")][index1];
-        DiceSix2.image = [#imageLiteral(resourceName: "DiceOne"),#imageLiteral(resourceName: "DiceTwo"),#imageLiteral(resourceName: "DiceThree"),#imageLiteral(resourceName: "DiceFour"),#imageLiteral(resourceName: "DiceFive"),#imageLiteral(resourceName: "DiceSix")][(5 - index1)];
-        index1+=1;
     }
     
 }
