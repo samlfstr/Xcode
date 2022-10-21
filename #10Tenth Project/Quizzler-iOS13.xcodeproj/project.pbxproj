@@ -7,29 +7,29 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		AD5C106622D36212001E14A5 /* alarm_sound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = AD5C106522D36212001E14A5 /* alarm_sound.mp3 */; };
-		ADF037EE22D332A800A69E9A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF037ED22D332A800A69E9A /* AppDelegate.swift */; };
-		ADF037F022D332A800A69E9A /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF037EF22D332A800A69E9A /* SceneDelegate.swift */; };
-		ADF037F222D332A800A69E9A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF037F122D332A800A69E9A /* ViewController.swift */; };
-		ADF037F522D332A800A69E9A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ADF037F322D332A800A69E9A /* Main.storyboard */; };
-		ADF037F722D332AD00A69E9A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ADF037F622D332AD00A69E9A /* Assets.xcassets */; };
-		ADF037FA22D332AD00A69E9A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ADF037F822D332AD00A69E9A /* LaunchScreen.storyboard */; };
+		AD4BDE4A22D878BA005BA4CC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4BDE4922D878BA005BA4CC /* AppDelegate.swift */; };
+		AD4BDE4C22D878BA005BA4CC /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4BDE4B22D878BA005BA4CC /* SceneDelegate.swift */; };
+		AD4BDE4E22D878BA005BA4CC /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4BDE4D22D878BA005BA4CC /* ViewController.swift */; };
+		AD4BDE5122D878BA005BA4CC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AD4BDE4F22D878BA005BA4CC /* Main.storyboard */; };
+		AD4BDE5322D878BC005BA4CC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AD4BDE5222D878BC005BA4CC /* Assets.xcassets */; };
+		AD4BDE5622D878BC005BA4CC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AD4BDE5422D878BC005BA4CC /* LaunchScreen.storyboard */; };
+		AD7631B622F9851900C6E71B /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = AD7631B522F9851900C6E71B /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		AD5C106522D36212001E14A5 /* alarm_sound.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = alarm_sound.mp3; sourceTree = "<group>"; };
-		ADF037EA22D332A800A69E9A /* EggTimer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EggTimer.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		ADF037ED22D332A800A69E9A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		ADF037EF22D332A800A69E9A /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		ADF037F122D332A800A69E9A /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		ADF037F422D332A800A69E9A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		ADF037F622D332AD00A69E9A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		ADF037F922D332AD00A69E9A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		ADF037FB22D332AD00A69E9A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AD4BDE4622D878BA005BA4CC /* Quizzler-iOS13.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Quizzler-iOS13.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		AD4BDE4922D878BA005BA4CC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		AD4BDE4B22D878BA005BA4CC /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		AD4BDE4D22D878BA005BA4CC /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		AD4BDE5022D878BA005BA4CC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		AD4BDE5222D878BC005BA4CC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		AD4BDE5522D878BC005BA4CC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		AD4BDE5722D878BC005BA4CC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AD7631B522F9851900C6E71B /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		ADF037E722D332A800A69E9A /* Frameworks */ = {
+		AD4BDE4322D878BA005BA4CC /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -39,73 +39,73 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		ADF037E122D332A800A69E9A = {
+		AD4BDE3D22D878BA005BA4CC = {
 			isa = PBXGroup;
 			children = (
-				ADF037EC22D332A800A69E9A /* EggTimer */,
-				ADF037EB22D332A800A69E9A /* Products */,
+				AD7631B522F9851900C6E71B /* README.md */,
+				AD4BDE4822D878BA005BA4CC /* Quizzler-iOS13 */,
+				AD4BDE4722D878BA005BA4CC /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		ADF037EB22D332A800A69E9A /* Products */ = {
+		AD4BDE4722D878BA005BA4CC /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				ADF037EA22D332A800A69E9A /* EggTimer.app */,
+				AD4BDE4622D878BA005BA4CC /* Quizzler-iOS13.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		ADF037EC22D332A800A69E9A /* EggTimer */ = {
+		AD4BDE4822D878BA005BA4CC /* Quizzler-iOS13 */ = {
 			isa = PBXGroup;
 			children = (
-				ADF037ED22D332A800A69E9A /* AppDelegate.swift */,
-				ADF037EF22D332A800A69E9A /* SceneDelegate.swift */,
-				ADF037F122D332A800A69E9A /* ViewController.swift */,
-				ADF037F322D332A800A69E9A /* Main.storyboard */,
-				ADF037F622D332AD00A69E9A /* Assets.xcassets */,
-				AD5C106522D36212001E14A5 /* alarm_sound.mp3 */,
-				ADF037F822D332AD00A69E9A /* LaunchScreen.storyboard */,
-				ADF037FB22D332AD00A69E9A /* Info.plist */,
+				AD4BDE4922D878BA005BA4CC /* AppDelegate.swift */,
+				AD4BDE4B22D878BA005BA4CC /* SceneDelegate.swift */,
+				AD4BDE4F22D878BA005BA4CC /* Main.storyboard */,
+				AD4BDE4D22D878BA005BA4CC /* ViewController.swift */,
+				AD4BDE5222D878BC005BA4CC /* Assets.xcassets */,
+				AD4BDE5422D878BC005BA4CC /* LaunchScreen.storyboard */,
+				AD4BDE5722D878BC005BA4CC /* Info.plist */,
 			);
-			path = EggTimer;
+			path = "Quizzler-iOS13";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		ADF037E922D332A800A69E9A /* EggTimer */ = {
+		AD4BDE4522D878BA005BA4CC /* Quizzler-iOS13 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = ADF037FE22D332AD00A69E9A /* Build configuration list for PBXNativeTarget "EggTimer" */;
+			buildConfigurationList = AD4BDE5A22D878BC005BA4CC /* Build configuration list for PBXNativeTarget "Quizzler-iOS13" */;
 			buildPhases = (
-				ADF037E622D332A800A69E9A /* Sources */,
-				ADF037E722D332A800A69E9A /* Frameworks */,
-				ADF037E822D332A800A69E9A /* Resources */,
+				AD4BDE4222D878BA005BA4CC /* Sources */,
+				AD4BDE4322D878BA005BA4CC /* Frameworks */,
+				AD4BDE4422D878BA005BA4CC /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = EggTimer;
-			productName = EggTimer;
-			productReference = ADF037EA22D332A800A69E9A /* EggTimer.app */;
+			name = "Quizzler-iOS13";
+			productName = "Quizzler-iOS13";
+			productReference = AD4BDE4622D878BA005BA4CC /* Quizzler-iOS13.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		ADF037E222D332A800A69E9A /* Project object */ = {
+		AD4BDE3E22D878BA005BA4CC /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1100;
 				LastUpgradeCheck = 1100;
 				ORGANIZATIONNAME = "The App Brewery";
 				TargetAttributes = {
-					ADF037E922D332A800A69E9A = {
+					AD4BDE4522D878BA005BA4CC = {
 						CreatedOnToolsVersion = 11.0;
 					};
 				};
 			};
-			buildConfigurationList = ADF037E522D332A800A69E9A /* Build configuration list for PBXProject "EggTimer" */;
+			buildConfigurationList = AD4BDE4122D878BA005BA4CC /* Build configuration list for PBXProject "Quizzler-iOS13" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -113,56 +113,56 @@
 				en,
 				Base,
 			);
-			mainGroup = ADF037E122D332A800A69E9A;
-			productRefGroup = ADF037EB22D332A800A69E9A /* Products */;
+			mainGroup = AD4BDE3D22D878BA005BA4CC;
+			productRefGroup = AD4BDE4722D878BA005BA4CC /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				ADF037E922D332A800A69E9A /* EggTimer */,
+				AD4BDE4522D878BA005BA4CC /* Quizzler-iOS13 */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		ADF037E822D332A800A69E9A /* Resources */ = {
+		AD4BDE4422D878BA005BA4CC /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				ADF037FA22D332AD00A69E9A /* LaunchScreen.storyboard in Resources */,
-				AD5C106622D36212001E14A5 /* alarm_sound.mp3 in Resources */,
-				ADF037F722D332AD00A69E9A /* Assets.xcassets in Resources */,
-				ADF037F522D332A800A69E9A /* Main.storyboard in Resources */,
+				AD4BDE5622D878BC005BA4CC /* LaunchScreen.storyboard in Resources */,
+				AD4BDE5322D878BC005BA4CC /* Assets.xcassets in Resources */,
+				AD7631B622F9851900C6E71B /* README.md in Resources */,
+				AD4BDE5122D878BA005BA4CC /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		ADF037E622D332A800A69E9A /* Sources */ = {
+		AD4BDE4222D878BA005BA4CC /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				ADF037F222D332A800A69E9A /* ViewController.swift in Sources */,
-				ADF037EE22D332A800A69E9A /* AppDelegate.swift in Sources */,
-				ADF037F022D332A800A69E9A /* SceneDelegate.swift in Sources */,
+				AD4BDE4E22D878BA005BA4CC /* ViewController.swift in Sources */,
+				AD4BDE4A22D878BA005BA4CC /* AppDelegate.swift in Sources */,
+				AD4BDE4C22D878BA005BA4CC /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		ADF037F322D332A800A69E9A /* Main.storyboard */ = {
+		AD4BDE4F22D878BA005BA4CC /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				ADF037F422D332A800A69E9A /* Base */,
+				AD4BDE5022D878BA005BA4CC /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		ADF037F822D332AD00A69E9A /* LaunchScreen.storyboard */ = {
+		AD4BDE5422D878BC005BA4CC /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				ADF037F922D332AD00A69E9A /* Base */,
+				AD4BDE5522D878BC005BA4CC /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -170,7 +170,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		ADF037FC22D332AD00A69E9A /* Debug */ = {
+		AD4BDE5822D878BC005BA4CC /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -230,7 +230,7 @@
 			};
 			name = Debug;
 		};
-		ADF037FD22D332AD00A69E9A /* Release */ = {
+		AD4BDE5922D878BC005BA4CC /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -284,34 +284,34 @@
 			};
 			name = Release;
 		};
-		ADF037FF22D332AD00A69E9A /* Debug */ = {
+		AD4BDE5B22D878BC005BA4CC /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = EggTimer/Info.plist;
+				INFOPLIST_FILE = "Quizzler-iOS13/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = co.appbrewery.EggTimer;
+				PRODUCT_BUNDLE_IDENTIFIER = "co.appbrewery.Quizzler-iOS13";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		ADF0380022D332AD00A69E9A /* Release */ = {
+		AD4BDE5C22D878BC005BA4CC /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = EggTimer/Info.plist;
+				INFOPLIST_FILE = "Quizzler-iOS13/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = co.appbrewery.EggTimer;
+				PRODUCT_BUNDLE_IDENTIFIER = "co.appbrewery.Quizzler-iOS13";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -321,25 +321,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		ADF037E522D332A800A69E9A /* Build configuration list for PBXProject "EggTimer" */ = {
+		AD4BDE4122D878BA005BA4CC /* Build configuration list for PBXProject "Quizzler-iOS13" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				ADF037FC22D332AD00A69E9A /* Debug */,
-				ADF037FD22D332AD00A69E9A /* Release */,
+				AD4BDE5822D878BC005BA4CC /* Debug */,
+				AD4BDE5922D878BC005BA4CC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		ADF037FE22D332AD00A69E9A /* Build configuration list for PBXNativeTarget "EggTimer" */ = {
+		AD4BDE5A22D878BC005BA4CC /* Build configuration list for PBXNativeTarget "Quizzler-iOS13" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				ADF037FF22D332AD00A69E9A /* Debug */,
-				ADF0380022D332AD00A69E9A /* Release */,
+				AD4BDE5B22D878BC005BA4CC /* Debug */,
+				AD4BDE5C22D878BC005BA4CC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = ADF037E222D332A800A69E9A /* Project object */;
+	rootObject = AD4BDE3E22D878BA005BA4CC /* Project object */;
 }
